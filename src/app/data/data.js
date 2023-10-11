@@ -36,7 +36,7 @@ export const data = [
       id: 4,
       name: {
         first: 'Kainat',
-        last: 'Zinab',
+        last: 'Zainab',
       },
       total: 150.45,
       status: 'Processing',
@@ -79,8 +79,8 @@ export const data = [
     {
       id: 8,
       name: {
-        first: 'Mohammad Rizwan',
-        last: 'Bond',
+        first: 'Mohammad',
+        last: ' Rizwan',
       },
       total: 689.45,
       status: 'Completed',
