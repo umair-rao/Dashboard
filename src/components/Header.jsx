@@ -2,7 +2,7 @@
 
 const Header = () => {
     return (
-      <div className='flex justify-between px-4 pt-4 pl-28'>
+      <div className='flex justify-between px-4 pt-4'>
           <h2>Dashboard</h2>
           <h2>Welcome Back, Umair</h2>
       </div>
